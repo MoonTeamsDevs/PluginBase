@@ -1,0 +1,6 @@
+name: NameOfPlugin
+version: VersionOfPlugin
+api: 3.0.0
+author: Your name
+main: Author\NameOfPlugin\Main
+description: "Description of your plugin."
